@@ -14,8 +14,17 @@ User management: Add, edit, and delete users, and assign roles and permissions.
 
 ## Live Demo
  ```sh
-   Staff Login | http://adamsale.xcommercex.com/
+   Executive Login | http://adamsale.xcommercex.com/executive
+   Credentials : executive/executive
+   
+    Managerial Login | http://adamsale.xcommercex.com/managerial
+    Credentials : managerial/managerial
+    
+    Staff Login | http://adamsale.xcommercex.com/staff
+    Credentials : staff/staff
+   
    Super Admin Login | http://admin.adamsale.xcommercex.com/
+   Credentials : superadmin/superadmin
 ```
 ## Prerequisites
 PHP 7.3 or higher

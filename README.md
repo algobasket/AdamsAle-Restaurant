@@ -41,9 +41,9 @@ _Below is an example of how you can instruct your audience on installing and set
    Install latest version of XAMPP
    ```
    ```sh
-   c:/folder > git clone https://github.com/algobasket/TradeBroker.git
-   c:/folder>cd TradeBroker
-   c:/folder/TradeBroker>php spark serve
+   c:/folder > git clone https://github.com/algobasket/AdamsAle-Restaurant.git
+   c:/folder>cd AdamsAle-Restaurant
+   c:/folder/AdamsAle-Restaurant>php spark serve
 
    Go to https://localhost:8080/
    ```

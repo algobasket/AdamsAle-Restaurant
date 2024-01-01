@@ -12,7 +12,7 @@ Order management: Create, edit, and delete orders, and view their status.
 Inventory management: Track inventory levels for each menu item, and receive alerts when inventory levels are low.
 User management: Add, edit, and delete users, and assign roles and permissions.
 
-## Live Demo
+## Live Demo 
  ```sh
    Executive Login | http://adamsale.xcommercex.com/executive
    Credentials : executive/executive

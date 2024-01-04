@@ -1,4 +1,4 @@
-# Adam's Ale Restaurant ERP
+#Bar & Restaurant ERP
 Complete Restaurant Management ERP
 Adam's Ale Restaurant ERP is a web application built using CodeIgniter 4, designed to help restaurant owners manage their business operations more efficiently. With Adam's Ale Restaurant ERP, restaurant owners can manage their menus, tables, orders, and inventory all in one place.
 

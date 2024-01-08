@@ -10,7 +10,7 @@ Menu management: Add, edit, and delete menu items, and organize them by category
 Table management: Create, edit, and delete tables, and assign orders to tables.
 Order management: Create, edit, and delete orders, and view their status.
 Inventory management: Track inventory levels for each menu item, and receive alerts when inventory levels are low.
-User management: Add, edit, and delete users, and assign roles and permissions.
+User management: Add, edit, and delete users, and assign roles and permissions
 
 ## Live Demo 
  ```sh
